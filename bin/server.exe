@@ -1,0 +1,2 @@
+gcc -o server *.c -I ../include/
+./server ../conf/server.conf
