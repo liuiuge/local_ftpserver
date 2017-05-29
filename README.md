@@ -3,16 +3,16 @@
 
 #Simple simulation of online disk
 
-#detail function:
+# detail function:
 
-# "cd" to open dir
-# "get" to download file
-# "ls" to get file stat in current dir
-# "put" to upload file
-# "pwd" to get current path
-# "remove" to delete file
+#"cd" to open dir
+#"get" to download file
+#"ls" to get file stat in current dir
+#"put" to upload file
+#"pwd" to get current path
+#"remove" to delete file
 # And all the function above can't be runned at all
 
-#But if u have the match-able client, you can use the function in client.
+# But if u have the match-able client, you can use the function in client.
 
 #                                                                   T.B.C.
