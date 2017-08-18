@@ -1,5 +1,5 @@
 # local_ftpserver
-#Local ftp_svr version 0.1
+#Local ftp_svr version 0.3
 
 #Simple simulation of online disk
 
@@ -19,8 +19,6 @@
 
 #"exit" to exxxxx it.
 
-# And all the function above can't be runned on it at all
-
-# But if u have the match-able client(https://github.com/liuiuge/local_ftpclient), you can use the function in client.
+And all the function above available in client, and server provide full support. Client(https://github.com/liuiuge/local_ftpclient).
 
 #                                                                                                               T.B.C.
