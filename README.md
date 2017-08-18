@@ -19,7 +19,7 @@
 
 #"exit" to exxxxx it.
 
-And all the function above available in client, and server provide full support. Client(https://github.com/liuiuge/local_ftpclient).
+And all the function above available in client, and server provide full support. Client(https://github.com/liuiuge/local_ftpclient) only for test.
 
 #                                                                                                               T.B.C.
 
