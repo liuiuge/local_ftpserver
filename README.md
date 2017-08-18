@@ -22,3 +22,10 @@
 And all the function above available in client, and server provide full support. Client(https://github.com/liuiuge/local_ftpclient).
 
 #                                                                                                               T.B.C.
+
+
+# how to use
+Write arguments in configuration
+and compile
+and run
+:-)
